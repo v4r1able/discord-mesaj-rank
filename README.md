@@ -4,3 +4,5 @@ Discord üzerinden her kullanıcının gönderdiği mesaj sayısını json dosya
 Json editi için edit-json-file kütüphanesini kullandım kurulum için komut : npm install --save edit-json-file
 
 Edit Json File : https://www.npmjs.com/package/edit-json-file
+
+![Image of v4](https://i.ibb.co/HzQLRBB/dc.png)
